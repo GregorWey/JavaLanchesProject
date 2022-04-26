@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Gregor/AndroidStudioProjects/JavaLanches/app/src/main/res/layout/activity_detalhes_pedido.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Gregor/AndroidStudioProjects/JavaLanches/app/src/main/res/layout/activity_mesas_disponiveis.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Gregor/AndroidStudioProjects/JavaLanches/app/src/main/res/layout/activity_quantidade_item.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Gregor/AndroidStudioProjects/JavaLanches/app/src/main/res/layout/activity_remove_item.xml" value="0.1" />
+        <entry key="..\:/Users/Gregor/AndroidStudioProjects/JavaLanches/app/src/main/res/layout/activity_seleciona_tipo_produto.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Gregor/AndroidStudioProjects/JavaLanches/app/src/main/res/layout/layout_mesa_com_pedido.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Gregor/AndroidStudioProjects/JavaLanches/app/src/main/res/layout/layout_prato.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/activity_detalhes_pedido.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/activity_lista_bebidas.xml" value="0.1" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/activity_lista_pratos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/activity_mesas_disponiveis.xml" value="0.1" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/activity_quantidade_item.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/activity_seleciona_tipo_produto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/layout_bebidas.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/layout_mesa_com_pedido.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/layout_mesa_vazia.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/layout_pedido.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/layout_pedido_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/layout_prato.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlos.ferreira/AndroidStudioProjects/JavaLanchesEditar/app/src/main/res/layout/layout_produto.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
